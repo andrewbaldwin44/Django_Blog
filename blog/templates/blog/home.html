@@ -14,7 +14,8 @@
     </article>
   {% endfor %}
   {% if is_paginated %}
-
+  <div class="row">
+    <div class="w-80 mx-auto">
     <!-- Links to first and previous page -->
     {% if page_obj.has_previous %}
       <a class="btn btn-outline-info mb-4" href="?page={{ page_obj.previous_page_number }}">
@@ -47,6 +48,7 @@
         >
       </a>
     {% endif %}
-
+    </div>
+  </div>
   {% endif %}
 {% endblock content %}

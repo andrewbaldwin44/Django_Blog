@@ -94,7 +94,7 @@ The page will reload if you make edits.
 - Django Crispy Forms
 - Pillow Image Management
 
-## Authors
+## Author
 
 👤 **Andrew Baldwin**
 

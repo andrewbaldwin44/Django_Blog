@@ -8,7 +8,7 @@ This app was created following [Corey Schafer's](https://www.youtube.com/watch?v
 
 ## Live Demo
 
-[View the Live Demo](https://django-blog-7rxa.onrender.com/)
+[View the Live Demo](https://django-blog-386q.onrender.com/)
 
 ## Features
 
